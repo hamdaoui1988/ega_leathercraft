@@ -25,7 +25,7 @@ function Intro() {
             </div>
             </div>
             <div className="intro_right">
-            <img src="https://scontent.frba3-2.fna.fbcdn.net/v/t1.6435-9/127472765_183040446858970_9212208077461730713_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=8bfeb9&_nc_eui2=AeGSldFfT5bftWgyeRsZo2waHcrFkhbd5qQdysWSFt3mpPujCM5FVMZHbK_taGnsv_A&_nc_ohc=CdJdvapMsXkAX87tg0z&_nc_ht=scontent.frba3-2.fna&oh=8222ad689adbb411b1e5c6501b53a28d&oe=617DC830"  />
+            <img src="https://scontent.frba3-2.fna.fbcdn.net/v/t1.6435-9/127472765_183040446858970_9212208077461730713_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=8bfeb9&_nc_eui2=AeGSldFfT5bftWgyeRsZo2waHcrFkhbd5qQdysWSFt3mpPujCM5FVMZHbK_taGnsv_A&_nc_ohc=CdJdvapMsXkAX87tg0z&_nc_ht=scontent.frba3-2.fna&oh=8222ad689adbb411b1e5c6501b53a28d&oe=617DC830" height="700px"/>
             <div class="bottom-left-block">
             <DomainIcon className="intro_right_icon" style={{ fontSize: 55 }} />
             <h3 className="intro_right_h3">Modern Design</h3>
