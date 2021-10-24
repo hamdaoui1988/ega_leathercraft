@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/ega_leathercraft/static/css/main.15fa31ba.chunk.css",
+    "main.js": "/ega_leathercraft/static/js/main.4e307964.chunk.js",
+    "main.js.map": "/ega_leathercraft/static/js/main.4e307964.chunk.js.map",
+    "runtime-main.js": "/ega_leathercraft/static/js/runtime-main.9f8b974e.js",
+    "runtime-main.js.map": "/ega_leathercraft/static/js/runtime-main.9f8b974e.js.map",
+    "static/css/2.2053d72d.chunk.css": "/ega_leathercraft/static/css/2.2053d72d.chunk.css",
+    "static/js/2.b57b7aac.chunk.js": "/ega_leathercraft/static/js/2.b57b7aac.chunk.js",
+    "static/js/2.b57b7aac.chunk.js.map": "/ega_leathercraft/static/js/2.b57b7aac.chunk.js.map",
+    "static/js/3.56b6cb24.chunk.js": "/ega_leathercraft/static/js/3.56b6cb24.chunk.js",
+    "static/js/3.56b6cb24.chunk.js.map": "/ega_leathercraft/static/js/3.56b6cb24.chunk.js.map",
+    "index.html": "/ega_leathercraft/index.html",
+    "static/css/2.2053d72d.chunk.css.map": "/ega_leathercraft/static/css/2.2053d72d.chunk.css.map",
+    "static/css/main.15fa31ba.chunk.css.map": "/ega_leathercraft/static/css/main.15fa31ba.chunk.css.map",
+    "static/js/2.b57b7aac.chunk.js.LICENSE.txt": "/ega_leathercraft/static/js/2.b57b7aac.chunk.js.LICENSE.txt",
+    "static/media/andrea.5df4fe8b.jpg": "/ega_leathercraft/static/media/andrea.5df4fe8b.jpg",
+    "static/media/azedin.187327e9.jpg": "/ega_leathercraft/static/media/azedin.187327e9.jpg",
+    "static/media/belt.9f3ce2a3.jpg": "/ega_leathercraft/static/media/belt.9f3ce2a3.jpg",
+    "static/media/cardholder.fb034d87.jpg": "/ega_leathercraft/static/media/cardholder.fb034d87.jpg",
+    "static/media/pngegg.78399813.png": "/ega_leathercraft/static/media/pngegg.78399813.png",
+    "static/media/slick-theme.css": "/ega_leathercraft/static/media/slick.c94f7671.ttf",
+    "static/media/wallet.8e01bfc2.jpg": "/ega_leathercraft/static/media/wallet.8e01bfc2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f8b974e.js",
+    "static/css/2.2053d72d.chunk.css",
+    "static/js/2.b57b7aac.chunk.js",
+    "static/css/main.15fa31ba.chunk.css",
+    "static/js/main.4e307964.chunk.js"
+  ]
+}
